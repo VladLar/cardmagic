@@ -1,0 +1,1 @@
+14:57:49.339 INFO: Processed transaction with card number 100000******4321 on 29.11.2024 14:57, amount 10.00 eur, status Approved. Return transaction details: {"data":{"transaction":{"pan":"100000******4321","type":"01","amount":"1000","currency":"978","status":"01"}}} 

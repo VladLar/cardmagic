@@ -1,0 +1,23 @@
+{
+  "01": {
+    "name": "APP",
+    "firstDigit": "1",
+    "maxAmount": 5000,
+    "minPANRange": 1000000000000000,
+    "maxPANRange": 1000005999999999
+  },
+  "02": {
+    "name": "BRW",
+    "firstDigit": "2",
+    "maxAmount": 10000,
+    "minPANRange": 2000000000000000,
+    "maxPANRange": 2000001234567890
+  },
+  "03": {
+    "name": "3RI",
+    "firstDigit": "3",
+    "maxAmount": 2000,
+    "minPANRange": 3000000000000000,
+    "maxPANRange": 3000000000000100
+  }
+}
